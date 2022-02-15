@@ -1,3 +1,6 @@
 1. sarapan
+  - bubur ayam
 2. makan siang
+  - nasi padang
 3. makan malam
+  - nasi goreng
