@@ -1,5 +1,6 @@
 1. sarapan
  - ubi
+ - jagung
 
 2. makan siang
  - nasi pecel
