@@ -1,6 +1,7 @@
 1. sarapan
 
 2. makan siang
+ - nasi pecel
 
 3. makan malam
  -sate sapi
