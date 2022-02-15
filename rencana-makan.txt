@@ -1,3 +1,6 @@
 1. sarapan
+  - nasi kuning
 2. makan siang
+  - sate kambing
 3. makan malam
+  - sate ayam
